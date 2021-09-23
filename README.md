@@ -5,6 +5,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/reachrobinraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reachrobinraj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/z_yk_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="z_yk_e" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/tgyybvnenp79qoqvs4zatkp3m" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='30' width="40">  
+
 </br></p>
 
 <h3 align="left">Learning :</h3>
