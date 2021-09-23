@@ -1,6 +1,6 @@
-<h1 align="center">Hey There !!</br> you can call me Robin</h1>
-<h3 align="center"><u>On my way to Pinnacle , Learning Something New</u></h3>
-
+<h1 align="center">Hey There !! Good to see you</br></br>Call me Robin</h1>
+<h3 align="center">On my way to Pinnacle , Learning Something New</h3>
+<h1 align="center"></h1>
 <h3 align="left">Catch me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/reachrobinraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reachrobinraj" height="30" width="40" /></a>
