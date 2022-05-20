@@ -1,9 +1,12 @@
-<span style="color: green">
+<span style="color: #007fff">
 
-<h1 align="center">Hey There !! Good to see you</br></br>Call me Robin</h1>
-<h3 align="center" >On my way to Pinnacle , Learning Something New</h3>
-<h1 align="center"></h1>
+
+ <h1 align="center">Hey There !! </br></br> Good to see you</br></br><img align="center" src="https://i.ibb.co/3vVzVR9/ind1.jpg"> </br><h2 align="center"></br>Call me Robin</h2>
+<h3 align="center">On my way to Pinnacle , Learning Something New</h3>
+<h1></h1></center>
 </br>
+
+
 
 <h3 align="center">Catch me:</h3>
 <p align="center">
@@ -11,7 +14,11 @@
 <a href="https://www.hackerrank.com/z_yk_e" target="blank">&nbsp;&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="z_yk_e" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/tgyybvnenp79qoqvs4zatkp3m" target="blank">&nbsp;&nbsp;&nbsp;<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='30' width="40">  
 
+
+
 </br></br></p>
+
+
 <h3 align="center"><b>Learning :</b></h3>
 <p align="center">
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </br>
